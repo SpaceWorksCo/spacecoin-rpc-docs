@@ -1,0 +1,1575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+  <loc>https://docs.spacecoin.network/</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/cclib.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/cclibaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/cclibinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/FSMaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/FSMcreate.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/FSMinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/FSMlist.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/checknotarization.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getaddressbalance.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getaddressdeltas.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getaddressmempool.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getaddresstxids.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getaddressutxos.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getnotarypayinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getsnapshot.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/auctionaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/coinsupply.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getbestblockhash.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getblock.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getblockchaininfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getblockcount.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getblockhash.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getblockhashes.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getblockheader.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getchaintips.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getchaintxstats.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getdifficulty.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getlastsegidstakes.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getmempoolinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getrawmempool.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getspentinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/gettxout.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/gettxoutproof.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/gettxoutsetinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/kvsearch.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/kvupdate.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/minerids.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/notaries.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/verifychain.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/verifytxoutproof.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/channelsaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/channelsclose.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/channelsinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/channelslist.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/channelsopen.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/channelspayment.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/channelsrefund.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/geterablockheights.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getiguanajson.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getnotarysendmany.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/help.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/stop.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/MoMoMdata.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/assetchainproof.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/calc_MoM.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getNotarisationsForBlock.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getimports.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getwalletburntransactions.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/height_MoM.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/importdual.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/importgatewaybind.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/importgatewaycompletesigning.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/importgatewayddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/importgatewaydeposit.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/importgatewaymarkdone.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/importgatewayspartialsign.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/importgatewaypendingwithdraws.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/importgatewayprocessed.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/importgatewaywithdraw.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/migrate_checkburntransactionsource.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/migrate_completeimporttransaction.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/migrate_converttoexport.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/migrate_createburntransaction.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/migrate_createimporttransaction.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/migrate_createnotaryapprovaltransaction.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/scanNotarisationsDB.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/selfimport.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/diceaddfunds.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/diceaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/dicebet.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/dicefinish.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/dicefund.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/diceinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/dicelist.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/dicestatus.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/z_getpaymentdisclosure.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/z_validatepaymentdisclosure.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/faucetaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/faucetfund.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/faucetget.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/faucetinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/gatewaysaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/gatewaysbind.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/gatewaysclaim.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/gatewayscompletesigning.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/gatewaysdeposit.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/gatewaysdumpprivkey.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/gatewaysexternaladdress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/gatewaysinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/gatewayslist.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/gatewaysmarkdone.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/gatewayspartialsign.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/gatewayspendingdeposits.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/gatewayspendingwithdraws.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/gatewaysprocessed.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/gatewayswithdraw.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/generate.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getgenerate.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/setgenerate.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/heiradd.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/heiraddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/heirclaim.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/heirfund.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/heirinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/heirlist.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/lottoaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/Marmaraaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/marmaracreditloop.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/marmarainfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/marmaraissue.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/marmaralock.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/marmarapoolpayout.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/marmarareceive.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/marmarasettlement.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/marmaratransfer.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/genminingCSV.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getblocksubsidy.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getblocktemplate.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getlocalsolps.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getmininginfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getnetworkhashps.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getnetworksolps.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/prioritisetransaction.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/submitblock.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/nspv_broadcast.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/nspv_getinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/nspv_hdrsproof.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/nspv_listccmoduleunspent.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/nspv_listtransactions.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/nspv_listunspent.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/nspv_login.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/nspv_logout.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/nspv_mempool.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/nspv_notarizations.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/nspv_spend.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/nspv_spentinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/nspv_txproof.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/addnode.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/clearbanned.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/disconnectnode.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getaddednodeinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getconnectioncount.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getdeprecationinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getnettotals.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getnetworkinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getpeerinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/listbanned.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/ping.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/setban.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/oraclesaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/oraclescreate.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/oraclesdata.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/oraclesfund.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/oraclesinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/oracleslist.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/oraclesregister.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/oraclessample.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/oraclessamples.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/oraclessubscribe.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/paymentsaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/paymentsairdrop.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/payments_airdroptokens.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/paymentscreate.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/paymentsfund.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/paymentsinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/paymentslist.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/paymentsmerge.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/paymentsrelease.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/paymentstxidopret.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/pegsaccounthistory.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/pegsaccountinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/pegssaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/pegscreate.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/pegsexchange.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/pegsfund.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/pegsget.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/pegsinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/pegsliquidate.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/pegsredeem.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/pegsworstaccounts.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/mypriceslist.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/prices.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/pricesaddfunding.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/pricesaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/pricesbet.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/pricescashout.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/pricesgetorderbook.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/pricesinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/priceslist.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/pricesrefillfund.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/pricesrekt.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/pricessetcostbasis.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/createrawtransaction.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/decoderawtransaction.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/decodescript.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/fundrawtransaction.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getrawtransaction.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/sendrawtransaction.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/signrawtransaction.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/rewardsaddfunding.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/rewardsaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/rewardscreatefunding.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/rewardsinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/rewardslist.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/rewardslock.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/rewardsunlock.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/assetsaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/mytokenorders.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/tokenaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/tokenask.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/tokenbalance.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/tokenbid.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/tokencancelask.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/tokencancelbid.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/tokenconvert.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/tokencreate.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/tokenfillask.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/tokenfillbid.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/tokeninfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/tokenlist.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/tokenorders.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/tokentransfer.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/createmultisig.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/decodeccopret.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/estimatefee.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/estimatepriority.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/invalidateblock.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/jumblr_deposit.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/jumblr_pause.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/jumblr_resume.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/jumblr_secret.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/reconsiderblock.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/txnotarizedconfirmed.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/validateaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/verifymessage.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/z_validateaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/addmultisigaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/backupwallet.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/cleanwallettransactions.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/convertpassphrase.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/dumpprivkey.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/dumpwallet.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/encryptwallet.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getaccount.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getaccountaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getaddressesbyaccount.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getbalance.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getnewaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getrawchangeaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getreceivedbyaccount.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getreceivedbyaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/gettransaction.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getunconfirmedbalance.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/getwalletinfo.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/importaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/importprivkey.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/importwallet.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/keypoolrefill.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/listaccounts.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/listaddressgroupings.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/listlockunspent.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/listreceivedbyaccount.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/listreceivedbyaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/listsinceblock.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/listtransactions.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/listunspent.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/lockunspent.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/move.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/opreturn_burn.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/resendwallettransactions.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/sendfrom.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/sendmany.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/sendtoaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/setaccount.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/setpubkey.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/setstakingsplit.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/settxfee.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/signmessage.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/z_exportkey.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/z_exportviewingkey.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/z_exportwallet.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/z_getbalance.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/z_getnewaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/z_getoperationresult.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/z_getoperationstatus.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/z_gettotalbalance.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/z_importkey.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/z_importviewingkey.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/z_importwallet.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/z_listaddresses.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/z_listoperationids.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/z_listreceivedbyaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/z_listunspent.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/z_mergetoaddress.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/z_sendmany.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/z_shieldcoinbase.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/z_viewtransaction.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/zcbenchmark.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/zcrawjoinsplit.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/zcrawkeygen.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/zcrawreceive.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.spacecoin.network/zcsamplejoinsplit.html</loc>
+  <lastmod>2021-04-23T02:56:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
